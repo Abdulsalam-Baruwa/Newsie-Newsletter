@@ -7,10 +7,9 @@ Free or paid, all templates are high quality and will make great portfolio piece
 
 ### I've completed the challenge, now what?
 
-We recommend using one of these two websites to deploy your projects
+You can view my live solution here.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+- [Netlify](https://modest-kowalevski-daeac5.netlify.app/)
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
 
